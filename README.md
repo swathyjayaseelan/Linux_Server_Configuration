@@ -41,5 +41,5 @@ URL: http://ec2-35-165-225-152.us-west-2.compute.amazonaws.com
 
 ssh key can be found at '/home/grader/.ssh/authorized_keys'
 
-The Items Catalog app can be accessed at : 'http://http://35.165.225.152/' or 'http://http://ec2-35-165-225-152.us-west-2.compute.amazonaws.com/'
+The Items Catalog app can be accessed at : 'http://35.165.225.152/' or 'http://ec2-35-165-225-152.us-west-2.compute.amazonaws.com/'
 
