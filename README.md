@@ -6,7 +6,9 @@ This is the fifth project in Udacity Full-Stack Developer Nanodegree. In this pr
 ## Server Details
 
 IP Address : 35.165.225.152
+
 SSH Port : 2200
+
 URL: http://ec2-35-165-225-152.us-west-2.compute.amazonaws.com
 
 ## Configuration changes made
