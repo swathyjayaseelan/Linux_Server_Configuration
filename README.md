@@ -1,7 +1,7 @@
 # Linux Server Configuration
 
 ## About
-This is the fifth project in Udacity Full-Stack Developer Nanodegree. In this project a Linux server(Amazon Light Sail) is configured to host a web app securely
+A content management system using Python's flask framework. Authentication is provided via OAuth and all data is stored within a PostgreSQL database. A Linux server(Amazon Light Sail) is configured to host it securely. 
 
 ## Server Details
 
